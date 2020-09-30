@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\himan\\.acmx\\solutions\\Codeforces - Codeforces Round #494 (Div. 3)\\A. Polycarp's Pockets\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Polycarp's Pockets",
+      "group": "Codeforces - Codeforces Round #494 (Div. 3)",
+      "url": "https://codeforces.com/contest/1003/problem/A",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

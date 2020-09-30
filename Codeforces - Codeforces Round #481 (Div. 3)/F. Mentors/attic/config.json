@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\himan\\.acmx\\solutions\\Codeforces - Codeforces Round #481 (Div. 3)\\F. Mentors\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "F. Mentors",
+      "group": "Codeforces - Codeforces Round #481 (Div. 3)",
+      "url": "https://codeforces.com/contest/978/problem/F",
+      "memoryLimit": 256,
+      "timeLimit": 3000
+    }
+  }
+}

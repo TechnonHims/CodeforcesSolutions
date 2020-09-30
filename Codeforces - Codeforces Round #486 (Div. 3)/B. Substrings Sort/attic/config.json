@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\himan\\.acmx\\solutions\\Codeforces - Codeforces Round #486 (Div. 3)\\B. Substrings Sort\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Substrings Sort",
+      "group": "Codeforces - Codeforces Round #486 (Div. 3)",
+      "url": "https://codeforces.com/contest/988/problem/B",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

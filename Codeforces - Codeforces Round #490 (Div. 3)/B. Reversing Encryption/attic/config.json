@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\himan\\.acmx\\solutions\\Codeforces - Codeforces Round #490 (Div. 3)\\B. Reversing Encryption\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Reversing Encryption",
+      "group": "Codeforces - Codeforces Round #490 (Div. 3)",
+      "url": "https://codeforces.com/contest/999/problem/B",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

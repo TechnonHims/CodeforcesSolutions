@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\himan\\.acmx\\solutions\\Codeforces - Codeforces Round #506 (Div. 3)\\B. Creating the Contest\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Creating the Contest",
+      "group": "Codeforces - Codeforces Round #506 (Div. 3)",
+      "url": "https://codeforces.com/contest/1029/problem/B",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\himan\\.acmx\\solutions\\Codeforces - Codeforces Round #481 (Div. 3)\\C. Letters\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Letters",
+      "group": "Codeforces - Codeforces Round #481 (Div. 3)",
+      "url": "https://codeforces.com/contest/978/problem/C",
+      "memoryLimit": 256,
+      "timeLimit": 4000
+    }
+  }
+}

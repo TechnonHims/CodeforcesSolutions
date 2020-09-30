@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\himan\\.acmx\\solutions\\Codeforces - Codeforces Round #490 (Div. 3)\\C. Alphabetic Removals\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Alphabetic Removals",
+      "group": "Codeforces - Codeforces Round #490 (Div. 3)",
+      "url": "https://codeforces.com/contest/999/problem/C",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\himan\\.acmx\\solutions\\Codeforces - Codeforces Round #496 (Div. 3)\\C. Summarize to the Power of Two\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Summarize to the Power of Two",
+      "group": "Codeforces - Codeforces Round #496 (Div. 3)",
+      "url": "https://codeforces.com/contest/1005/problem/C",
+      "memoryLimit": 256,
+      "timeLimit": 3000
+    }
+  }
+}

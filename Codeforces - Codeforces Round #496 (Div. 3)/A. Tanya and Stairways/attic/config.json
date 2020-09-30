@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\himan\\.acmx\\solutions\\Codeforces - Codeforces Round #496 (Div. 3)\\A. Tanya and Stairways\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Tanya and Stairways",
+      "group": "Codeforces - Codeforces Round #496 (Div. 3)",
+      "url": "https://codeforces.com/contest/1005/problem/A",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

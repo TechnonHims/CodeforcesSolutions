@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\himan\\.acmx\\solutions\\Codeforces - Codeforces Round #486 (Div. 3)\\D. Points and Powers of Two\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D. Points and Powers of Two",
+      "group": "Codeforces - Codeforces Round #486 (Div. 3)",
+      "url": "https://codeforces.com/contest/988/problem/D",
+      "memoryLimit": 256,
+      "timeLimit": 4000
+    }
+  }
+}
